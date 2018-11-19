@@ -1,7 +1,7 @@
 package com.smartdatachain.api.constant;
 
 /**
- * Created by Administrator on 2017/12/20.
+ * Created by Administrator on 2018/11/11.
  */
 public enum RedisKey {
     allValidJobTypeInfoList,
@@ -17,8 +17,6 @@ public enum RedisKey {
     jobTypeInfoList_suffix,
     startWorkFlowDetailList_suffix,
     startWorkFlowParamList_suffix,
-    //用于存储config的key
     dataSourceConfig,
-    //用于移动端存储数据源
     mDataSourceConfig,
 }

@@ -6,7 +6,7 @@ import com.jeeframework.webframework.exception.SystemCode;
  * SystemCode
  * 系统错误编码枚举
  *
- * @author lance
+ * @author haolen
  * @date 2016/3/21 0021
  */
 public class MySystemCode extends SystemCode {

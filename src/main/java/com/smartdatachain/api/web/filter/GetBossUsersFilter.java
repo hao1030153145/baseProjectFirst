@@ -12,7 +12,7 @@ package com.smartdatachain.api.web.filter;
  * 查询用户列表对象
  * <p>
  *
- * @author lance
+ * @author haolen
  * @version 1.0 2015-3-4 下午08:07:47
  * @Description: 查询用户列表对象
  */

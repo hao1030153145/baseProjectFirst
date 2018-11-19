@@ -18,7 +18,7 @@ import org.springframework.context.annotation.Configuration;
  * <p>
  *
  * @Description: 配置文档页面显示的内容、工程名、工程URL、作者
- * @author lance
+ * @author haolen
  * @version 1.0 2015-2-25 下午05:36:40
  */
 @Configuration

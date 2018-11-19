@@ -1,6 +1,6 @@
 /**
  * @project: api
- * @Title: UserController.java
+ * @Title: workGroupController.java
  * @Package: com.smartdatachain.api.web.controller
  * <p>
  * Copyright (c) 2014-2017 Jeeframework Limited, Inc.

@@ -12,7 +12,7 @@ package com.smartdatachain.api.web.filter;
  * 用户更新对象
  * <p>
  *
- * @author lance
+ * @author haolen
  * @version 1.0 2015-3-4 下午08:07:47
  * @Description: 用户更新对象
  */

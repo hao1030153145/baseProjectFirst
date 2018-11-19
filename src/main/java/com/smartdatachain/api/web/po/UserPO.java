@@ -1,5 +1,5 @@
 /**
- * 1.0   lanceyan  2008-5-20  Create
+ * 1.0   haolenyan  2008-5-20  Create
  */
 
 package com.smartdatachain.api.web.po;

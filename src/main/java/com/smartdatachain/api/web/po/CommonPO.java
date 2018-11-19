@@ -1,7 +1,7 @@
 package com.smartdatachain.api.web.po;
 
 /**
- * Created by Administrator on 2018/10/24.
+ * Created by Administrator on 2018/11/11.
  */
 public class CommonPO {
 

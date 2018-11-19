@@ -20,7 +20,7 @@ import java.util.Properties;
  * Web端数据工具类
  * <p/>
  *
- * @author lance
+ * @author haolen
  * @version 1.0 2015-3-4 下午02:34:50
  * @Description: 所有web相关的操作工具方法
  */

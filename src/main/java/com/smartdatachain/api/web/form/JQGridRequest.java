@@ -11,7 +11,7 @@ package com.smartdatachain.api.web.form;
 /**
  * JQGrid数据请求对象
  *
- * @author lance
+ * @author haolen
  * @version 1.0 2015-08-13 18:24
  */
 public class JQGridRequest {
